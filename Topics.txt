@@ -1,0 +1,9 @@
+1. In-process, Out-of-process hosting
+2. Middlewares
+3. Authentication/Authorisation
+4. Exception middleware/Exception filter
+5. Dependency Injection
+6. ConfigureServices/Configure methods in Startup.cs
+7. Swagger
+8. Routing
+9. CORS
