@@ -6,17 +6,6 @@ namespace ConsoleToWebApp
     {
         //Every Asp.NET Core Web Application starts as a Console Application and looks for a method called "Main"
         //In the "Main" method, we can spin up a Host using the HostBuilder class and configure the "defaults" 
-        //static void Main(string[] args) 
-        //{
-        //    CreateHostBuilder(args).Build().Run();
-        //}
-
-        //private static IHostBuilder CreateHostBuilder(string[] args) =>
-        //    Host.CreateDefaultBuilder(args).ConfigureWebHostDefaults(webBuilder =>
-        //    {
-        //        webBuilder.UseStartup<Startup>();
-        //    });
-
         static void Main(string[] args)
         {
             IHostBuilder hostBuilder = CreateHostBuilder(args);
@@ -40,5 +29,17 @@ namespace ConsoleToWebApp
         {
             webHostBuilder.UseStartup<Startup>();
         }
+
+        //Short cut method of writing the above
+        //static void Main(string[] args) 
+        //{
+        //    CreateHostBuilder(args).Build().Run();
+        //}
+
+        //private static IHostBuilder CreateHostBuilder(string[] args) =>
+        //    Host.CreateDefaultBuilder(args).ConfigureWebHostDefaults(webBuilder =>
+        //    {
+        //        webBuilder.UseStartup<Startup>();
+        //    });
     }
 }
