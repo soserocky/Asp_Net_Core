@@ -10,7 +10,7 @@ namespace ConsoleToWebApp
             app.UseEndpoints(endpoints => {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello, World. This is a web application");
+                    await context.Response.WriteAsync("Hello, World. This is a web application.");
                 });
             });
         }
