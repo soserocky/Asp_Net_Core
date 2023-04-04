@@ -1,0 +1,11 @@
+1. Reverse proxy, Http Get vs Http Post
+2. Routing - UseRouting, UseEndPoints, MapControllers
+3. Dependency Injection - How to register middleware services
+3. CORS
+4. Register multiple services for the same interfaces and decide which service to call at runtime
+5. CSRF Attack
+6. Order of execution of ViewImports, ViewStart, Layout views
+7. Use ViewData only for a specific view - ViewDataDictionary
+8. ViewComponents
+9. Factory based middleware vs Convention based middleware
+10. Authentication, Authorisation

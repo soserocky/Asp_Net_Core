@@ -1,0 +1,17 @@
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\bin\Debug\net6.0\AspNetCorePractice.Data.deps.json
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\bin\Debug\net6.0\AspNetCorePractice.Data.runtimeconfig.json
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\bin\Debug\net6.0\AspNetCorePractice.Data.dll
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\bin\Debug\net6.0\AspNetCorePractice.Data.pdb
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\bin\Debug\net6.0\AspNetCorePractice.Models.dll
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\bin\Debug\net6.0\AspNetCorePractice.Models.pdb
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.csproj.AssemblyReference.cache
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.AssemblyInfoInputs.cache
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.AssemblyInfo.cs
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.csproj.CoreCompileInputs.cache
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.csproj.CopyComplete
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.dll
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\refint\AspNetCorePractice.Data.dll
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.pdb
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\AspNetCorePractice.Data.genruntimeconfig.cache
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Data\obj\Debug\net6.0\ref\AspNetCorePractice.Data.dll

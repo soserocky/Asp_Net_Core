@@ -1,0 +1,12 @@
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\bin\Debug\net6.0\AspNetCorePractice.Models.deps.json
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\bin\Debug\net6.0\AspNetCorePractice.Models.dll
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\bin\Debug\net6.0\AspNetCorePractice.Models.pdb
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\AspNetCorePractice.Models.csproj.AssemblyReference.cache
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\AspNetCorePractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\AspNetCorePractice.Models.AssemblyInfoInputs.cache
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\AspNetCorePractice.Models.AssemblyInfo.cs
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\AspNetCorePractice.Models.csproj.CoreCompileInputs.cache
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\AspNetCorePractice.Models.dll
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\refint\AspNetCorePractice.Models.dll
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\AspNetCorePractice.Models.pdb
+C:\Coding Self Practice\ASP.NET Core\Asp_Net Core Tutorial\AspNetCorePractice\AspNetCorePractice.Models\obj\Debug\net6.0\ref\AspNetCorePractice.Models.dll

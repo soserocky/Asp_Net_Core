@@ -1,0 +1,8 @@
+﻿@model IEnumerable<PersonDto>
+
+<ul>
+    @foreach (var person in Model)
+    {
+        <li>@person.Id - @person.Name</li>
+    }
+</ul>

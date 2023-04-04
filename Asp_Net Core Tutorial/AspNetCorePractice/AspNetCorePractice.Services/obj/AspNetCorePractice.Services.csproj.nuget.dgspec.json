@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Services\\AspNetCorePractice.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Data\\AspNetCorePractice.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Data\\AspNetCorePractice.Data.csproj",
+        "projectName": "AspNetCorePractice.Data",
+        "projectPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Data\\AspNetCorePractice.Data.csproj",
+        "packagesPath": "C:\\Users\\sabya\\.nuget\\packages\\",
+        "outputPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Models\\AspNetCorePractice.Models.csproj": {
+                "projectPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Models\\AspNetCorePractice.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Models\\AspNetCorePractice.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Models\\AspNetCorePractice.Models.csproj",
+        "projectName": "AspNetCorePractice.Models",
+        "projectPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Models\\AspNetCorePractice.Models.csproj",
+        "packagesPath": "C:\\Users\\sabya\\.nuget\\packages\\",
+        "outputPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Services\\AspNetCorePractice.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Services\\AspNetCorePractice.Services.csproj",
+        "projectName": "AspNetCorePractice.Services",
+        "projectPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Services\\AspNetCorePractice.Services.csproj",
+        "packagesPath": "C:\\Users\\sabya\\.nuget\\packages\\",
+        "outputPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Data\\AspNetCorePractice.Data.csproj": {
+                "projectPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Data\\AspNetCorePractice.Data.csproj"
+              },
+              "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Models\\AspNetCorePractice.Models.csproj": {
+                "projectPath": "C:\\Coding Self Practice\\ASP.NET Core\\Asp_Net Core Tutorial\\AspNetCorePractice\\AspNetCorePractice.Models\\AspNetCorePractice.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

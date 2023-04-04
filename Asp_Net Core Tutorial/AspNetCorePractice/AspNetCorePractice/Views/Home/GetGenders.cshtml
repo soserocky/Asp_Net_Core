@@ -1,0 +1,8 @@
+﻿@model IEnumerable<GenderDto>
+
+<ul>
+    @foreach (var gender in Model)
+    {
+        <li>@gender.Id - @gender.Type</li>
+    }
+</ul>
